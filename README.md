@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adrian Guzman</h1>
 <h3 align="center">A passionate frontend developer from Anahieim, CA</h3>
 
-- 🔭 I’m currently working on **a resturaunt menu study program for their workers**
+- 🔭 I’m currently working on **a resturaunt menu study program for workers**
 
 - 👨‍💻 All of my projects are available at [https://adrian-guzman.netlify.app/](https://adrian-guzman.netlify.app/)
 
-- 📝 I regularly write articles on [tech, life, hatred for Disneyland](tech, life, hatred for Disneyland)
+- 📝 I regularly write articles on my hatred for Disneyland
 
 - 📫 How to reach me **adrian1217guzman@gmail.com**
 
