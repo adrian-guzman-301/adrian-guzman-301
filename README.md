@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **adrian1217guzman@gmail.com**
 
-- ⚡ Fun fact **some think I'm funny**
+- ⚡ Fun fact **I take the bus everyday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
