@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adrian-guzman.netlify.app/](https://adrian-guzman.netlify.app/)
 
-- 📝 I regularly write articles on my hatred for Disneyland
+- 📝 I regularly write words and code.
 
 - 📫 How to reach me **adrian1217guzman@gmail.com**
 
