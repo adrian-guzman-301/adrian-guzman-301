@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Guzman</h1>
 <h3 align="center">A passionate frontend developer from Anahieim, CA</h3>
 
-- 🔭 I’m currently working on **a resturaunt menu study program for resturaunt workers**
+- 🔭 I’m currently working on **a resturaunt menu study program for resturaunt workers** like a flashcard app of some kind
 
 - 👨‍💻 All of my projects are available at [https://adrian-guzman.netlify.app/](https://adrian-guzman.netlify.app/)
 
