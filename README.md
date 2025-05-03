@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adrian-guzman.netlify.app/](https://adrian-guzman.netlify.app/)
 
-- I am a slow cooker enthusiast
+- Meditation and public transit enthusiast
 
 - 📫 How to reach me **adrian1217guzman@gmail.com**
 
