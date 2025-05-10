@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a resturaunt POS system**
 
-- 👨‍💻 All of my projects are available at [https://adrian-guzman.netlify.app/](https://adrian-guzman.netlify.app/)
+- 👨‍💻 All of my projects are available [here](https://adrian-guzman.netlify.app/)
 
-- Meditation and public transit enthusiast
+- Meditation enthusiast
 
 - 📫 How to reach me **adrian1217guzman@gmail.com**
 
