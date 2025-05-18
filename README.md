@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **adrian1217guzman@gmail.com**
 
-- ⚡ Fun fact **not feeling like coding today**
+- ⚡ Fun fact **not feeling like coding yesterday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
