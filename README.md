@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a resturaunt POS system**
 
-- 👨‍💻 All of my projects are [here](https://adrian-guzman.netlify.app/)
+- 👨‍💻 All of my projects [here](https://adrian-guzman.netlify.app/)
 
 - Meditation seems cool so far
 
