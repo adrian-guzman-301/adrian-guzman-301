@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects [here](https://adrian-guzman.netlify.app/)
 
-- Meditation seems cool so far
+- Meditation is cool
 
 - 📫 How to reach me **adrian1217guzman@gmail.com**
 
-- ⚡ Fun fact **not feeling like coding yesterday**
+- ⚡ Fun fact **i have 2 cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
