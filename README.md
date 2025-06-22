@@ -5,7 +5,7 @@
 
 - 👨‍💻 [projects](https://adrian-guzman.netlify.app/)
 
-- Meditation is cool
+- Meditation enthusiast
 
 - 📫 How to reach me **adrian1217guzman@gmail.com**
 
