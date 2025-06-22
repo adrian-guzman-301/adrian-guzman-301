@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **adrian1217guzman@gmail.com**
 
-- ⚡ Fun fact **i have 2 cats**
+- ⚡**i have 2 cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
