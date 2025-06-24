@@ -7,7 +7,7 @@
 
 - Meditation enthusiast
 
-- 📫 How to reach me **adrian1217guzman@gmail.com**
+- 📫 reach me: **adrian1217guzman@gmail.com**
 
 - ⚡**i have 2 cats**
 
