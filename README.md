@@ -5,7 +5,7 @@
 
 - 👨‍💻 [projects](https://adrian-guzman.netlify.app/)
 
-- Meditation enthusiast
+- comedy enthusiast
 
 - 📫 reach me: **adrian1217guzman@gmail.com**
 
