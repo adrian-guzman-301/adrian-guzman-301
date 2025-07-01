@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Guzman</h1>
 <h3 align="center">A passionate frontend developer from Anaheim, CA</h3>
 
-- 🔭 working on **a resturaunt POS system**
+- 🔭 working on **humor apps**
 
 - 👨‍💻 [projects](https://adrian-guzman.netlify.app/)
 
