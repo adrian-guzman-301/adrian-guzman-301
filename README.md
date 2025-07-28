@@ -9,7 +9,7 @@
 
 - 📫 reach me: **adrian1217guzman@gmail.com**
 
-- ⚡**i have 2 cats and a dream**
+- ⚡**i have 2 cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
