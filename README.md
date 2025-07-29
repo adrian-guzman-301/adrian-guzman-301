@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Guzman</h1>
 <h3 align="center">A passionate frontend developer from Anaheim, CA</h3>
 
-- 🔭 shattered and currently undergoing a **rebirth**
+- 🔭 shattered and currently undergoing a **rebirth** status: form is taking shape
 
 - 👨‍💻 [projects](https://adrian-guzman.netlify.app/)
 
