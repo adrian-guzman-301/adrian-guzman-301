@@ -5,7 +5,7 @@
 
 - 👨‍💻 [projects](https://adrian-guzman.netlify.app/)
 
-- humor enthusiast
+- building a joke journal app
 
 - 📫 reach me: **adrian1217guzman@gmail.com**
 
