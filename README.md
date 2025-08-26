@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Guzman</h1>
 <h3 align="center">A passionate frontend developer from Anaheim, CA</h3>
 
-- 🔭 status: grinding
+- 🔭 status: watching japanese barber shop asmr's has made me want to move to tokyo
 
 - 👨‍💻 [projects](https://adrian-guzman.netlify.app/)
 
