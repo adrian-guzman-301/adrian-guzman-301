@@ -7,7 +7,7 @@
 
 - ⚡**i have two cats**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: linkedin.com/adrian-wuz-here</h3>
 <p align="left">
 </p>
 
