@@ -3,8 +3,6 @@
 
 - 🔭 status: meditating
 
-- 👨‍💻 [projects](https://adrian-guzman.netlify.app/)
-
 - 📫 reach me: **adrian1217guzman@gmail.com**
 
 - ⚡**i have two cats**
