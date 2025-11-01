@@ -5,7 +5,7 @@
 
 - 📫 reach me: **adrian1217guzman@gmail.com**
 
-- 🐈‍⬛🐈**i have two cats**
+- 🐈‍⬛**i have two cats**🐈
 
 <!-- <h3 align="left">Connect with me: linkedin.com/adrian-wuz-here</h3> -->
 <p align="left">
