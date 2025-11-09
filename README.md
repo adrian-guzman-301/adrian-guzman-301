@@ -1,9 +1,9 @@
 ## My Contribution Graph
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrian-guzman-301/adrian-guzman-301/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrian-guzman-301/adrian-guzman-301/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adrian-guzman-301/adrian-guzman-301/output/pacman-contribution-graph.svg">
 </picture>
 
 <h1 align="center">Hi 👋, I'm Adrian Guzman</h1>
