@@ -18,7 +18,7 @@
 - blog: [my first PR](https://medium.com/@adrian1217guzman/i-survived-my-first-pr-comments-on-the-spaghettiest-code-of-my-life-21d62ef8d0bd)
 
 
-<!-- <h3 align="left">Connect with me: linkedin.com/adrian-wuz-here</h3> -->
+<!-- <h3 align="left">Stalk me: linkedin.com/adrian-wuz-here</h3> -->
 <p align="left">
 </p>
 
