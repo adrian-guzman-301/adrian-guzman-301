@@ -1,5 +1,3 @@
-## My Contribution Graph
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrian-guzman-301/adrian-guzman-301/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrian-guzman-301/adrian-guzman-301/output/pacman-contribution-graph.svg">
