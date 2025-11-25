@@ -11,7 +11,7 @@
 
 - 📫 reach me: **adrian1217guzman@gmail.com**
 
-- 🐈‍⬛ **i have two cats** 🐈
+- 🐈‍⬛**i have two cats**🐈
 
 - blog: [my first PR](https://medium.com/@adrian1217guzman/i-survived-my-first-pr-comments-on-the-spaghettiest-code-of-my-life-21d62ef8d0bd)
 
