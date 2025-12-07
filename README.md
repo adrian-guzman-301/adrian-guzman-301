@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Guzman</h1>
 <h3 align="center">A passionate frontend developer from Anaheim, CA</h3>
 
-- status: 🧘🏾
+- status: 🤯
 
 - 📫 reach me: **adrian1217guzman@gmail.com**
 
